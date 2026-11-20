@@ -2,7 +2,7 @@
 
 Data and code for [arXiv:2610.41848](https://arxiv.org/abs/2610.41848).
 
-Data: [10.5281/zenodo.24394890](https://doi.org/10.5281/zenodo.24394890)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24394890.svg)](https://doi.org/10.5281/zenodo.24394890)
 
 **TL;DR:** download `data.zip` from Zenodo, unzip it here, `pip install -r requirements.txt` and run `reproduce.ipynb`
 (about 9 minutes). It rebuilds Tables II–V and Figs. 3–7, 10 and 11, and recomputes a subset of the stored accuracies from
